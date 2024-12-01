@@ -1,0 +1,57 @@
+[
+    {
+        "outfit_id": "1",
+        "title": "Elegant Evening Gown",
+        "description": "A stunning floor-length gown with a shimmering finish, perfect for formal evening events.",
+        "category": "Evening Wear",
+        "color": "Red",
+        "fabric": "Silk",
+        "style": "Elegant",
+        "occasion": "Formal",
+        "rating": 4.8
+    },
+    {
+        "outfit_id": "2",
+        "title": "Casual Denim Jacket",
+        "description": "A stylish denim jacket with a classic design, suitable for casual outings and daily wear.",
+        "category": "Casual Wear",
+        "color": "Blue",
+        "fabric": "Denim",
+        "style": "Casual",
+        "occasion": "Everyday",
+        "rating": 4.5
+    },
+    {
+        "outfit_id": "3",
+        "title": "Summer Floral Dress",
+        "description": "A lightweight floral dress with a breezy design, ideal for summer parties and vacations.",
+        "category": "Summer Wear",
+        "color": "Yellow",
+        "fabric": "Cotton",
+        "style": "Floral",
+        "occasion": "Summer Parties",
+        "rating": 4.7
+    },
+    {
+        "outfit_id": "4",
+        "title": "Winter Woolen Coat",
+        "description": "A cozy woolen coat designed for cold winter days, providing both style and warmth.",
+        "category": "Winter Wear",
+        "color": "Black",
+        "fabric": "Wool",
+        "style": "Cozy",
+        "occasion": "Winter",
+        "rating": 4.9
+    },
+    {
+        "outfit_id": "5",
+        "title": "Formal Blazer",
+        "description": "A sleek blazer made with premium fabric, suitable for business meetings and formal occasions.",
+        "category": "Formal Wear",
+        "color": "Grey",
+        "fabric": "Polyester",
+        "style": "Formal",
+        "occasion": "Work",
+        "rating": 4.6
+    }
+]
